@@ -1,0 +1,6 @@
+path: C:/Users/alex1/Desktop/Ahmad_Stuff/Code/Project1/Training_Images/Self_annotated/Health_Infected_Leaves
+train: images/train
+val: images/val
+
+nc: 1
+names: ['plant']

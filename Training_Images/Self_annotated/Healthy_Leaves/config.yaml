@@ -1,0 +1,6 @@
+path: /content/gdrive/My Drive/REU/REU/Plant_Segmentation/Self_annotated/Healthy_Leaves/
+train: images/train
+val: images/val
+
+nc: 1
+names: ['plant']
